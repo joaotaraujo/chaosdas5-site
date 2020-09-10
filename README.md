@@ -22,29 +22,23 @@ Screenshot
 Presentations
 ----------------------------------
 
-<b>SBCM - SJDR - 2019</b>
 
-
-![GitHub Logo](/images/sbcm.jpg)
-<b>Sons de Silício - SP - 2019</b>
-
-
-![GitHub Logo](/images/sp.jpg)
+![GitHub Logo](/sp.jpg)
 
 
 <b>Seminário de Arte Digital - BH - 2019</b>
 
 
-![GitHub Logo](/images/bh.jpg)
+![GitHub Logo](/bh.jpg)
 
 
 <b>SBCM - SJDR - 2019</b>
 
 
-![GitHub Logo](/images/sbcm.jpg)
+![GitHub Logo](/sbcm.jpg)
 
 
 <b>Mostra de vestígios - SJDR - 2018</b>
 
 
-![GitHub Logo](/images/sj.jpeg)
+![GitHub Logo](/sj.jpeg)
