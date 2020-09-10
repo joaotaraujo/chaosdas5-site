@@ -15,3 +15,36 @@ Screenshot
 
 
 ![GitHub Logo](/software.png)
+
+
+
+
+Presentations
+----------------------------------
+
+<b>SBCM - SJDR - 2019</b>
+
+
+![GitHub Logo](/images/sbcm.jpg)
+<b>Sons de Silício - SP - 2019</b>
+
+
+![GitHub Logo](/images/sp.jpg)
+
+
+<b>Seminário de Arte Digital - BH - 2019</b>
+
+
+![GitHub Logo](/images/bh.jpg)
+
+
+<b>SBCM - SJDR - 2019</b>
+
+
+![GitHub Logo](/images/sbcm.jpg)
+
+
+<b>Mostra de vestígios - SJDR - 2018</b>
+
+
+![GitHub Logo](/images/sj.jpeg)
