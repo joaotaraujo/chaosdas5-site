@@ -1,4 +1,4 @@
-# Chaos das 5 - WebSite
+# Chaos das 5 - javascript/HTML - WebSite
 
 About
 -----
